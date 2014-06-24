@@ -1,3 +1,4 @@
-#*.hm binary
+*.hm binary
+*.hm -diff
 *.hm merge=union
 
